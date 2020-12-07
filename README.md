@@ -8,3 +8,4 @@ nice man cmcollander helped with python
 epic!
 try it here:
 https://repl.it/@ksutech/guessingame#main.py
+## note: guessing game breaks if you enter anything besides an integer
