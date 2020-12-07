@@ -2,6 +2,7 @@
 woohoo!
 try it here:
 https://repl.it/@ksutech/magik8balls#main.py
+nice man cmcollander helped with python
 
 # guessing game
 epic!
